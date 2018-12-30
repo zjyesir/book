@@ -6,5 +6,10 @@ commit 1 for branch1
 commit 2 for branch1
 commit 3 for branch1
 
+
 commit after testMerge in master 1
 commit after testMerge in master 2
+
+
+commit a testMerge
+commit a testMerge 2
