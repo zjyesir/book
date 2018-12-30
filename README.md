@@ -7,3 +7,4 @@ commit 2 for branch1
 commit 3 for branch1
 
 commit after testMerge in master 1
+commit after testMerge in master 2
