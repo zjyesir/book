@@ -13,3 +13,5 @@ commit after testMerge in master 2
 
 commit a testMerge
 commit a testMerge 2
+
+commit 1 from testRebase Master 
