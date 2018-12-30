@@ -7,3 +7,4 @@ commit 3 for branch1
 
 
 commit a testMerge
+commit a testMerge 2
