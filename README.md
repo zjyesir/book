@@ -25,3 +25,5 @@ again commit 22 from testRebase Master
 
 commit 1 from childOftRM
 commit 11 from childOftRM
+
+commit 2 from childOftRM
