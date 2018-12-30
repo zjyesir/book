@@ -18,3 +18,4 @@ commit 1 from testRebase Master
 commit 22 from testRebase Master
 
 again commit 1 from testRebase Master
+again commit 22 from testRebase Master
