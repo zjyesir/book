@@ -14,3 +14,5 @@ add 1
 
 
 test for c1
+test for c2
+test for c3
