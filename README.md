@@ -22,9 +22,6 @@ test for c3
 // new c1
 new c2
 new c3
-<<<<<<< HEAD
 
 hahaha
 hahaha2
-=======
->>>>>>> parent of b037207... 111
